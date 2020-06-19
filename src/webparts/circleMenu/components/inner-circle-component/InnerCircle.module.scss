@@ -1,0 +1,20 @@
+.innerCircle {
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  color: #f2f2f2;
+  z-index: 2000;
+  margin-top: -3em;
+  margin-left: -3em;
+  height: 6em;
+  width: 6em;
+  border: 2px solid #f2f2f2;
+  border-radius: 50%;
+  background-color: transparent;
+  outline: none;
+
+  animation: fadeIn 1s 1 ease-in;
+  i {
+    font-size: 20px;
+  }
+}

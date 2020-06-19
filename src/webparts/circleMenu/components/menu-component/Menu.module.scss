@@ -1,0 +1,32 @@
+.menuWrapper {
+  opacity: 1;
+  visibility: visible;
+  transition: all 0.2s ease-out;
+}
+
+.menuBackground {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 100;
+  background-color: #ffffff;
+  // background-color: #f0e8d1;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}

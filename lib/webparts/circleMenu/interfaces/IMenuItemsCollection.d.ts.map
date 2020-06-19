@@ -1,0 +1,1 @@
+{"version":3,"file":"IMenuItemsCollection.d.ts","sourceRoot":"","sources":["../../../../src/webparts/circleMenu/interfaces/IMenuItemsCollection.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,uEAAuE,CAAC;AAE1G,MAAM,WAAW,oBAAoB;IACnC,MAAM,EAAE,iBAAiB,CAAC;IAC1B,QAAQ,EAAE,MAAM,CAAC;IACjB,UAAU,EAAE,MAAM,CAAC;IACnB,KAAK,EAAE,MAAM,CAAC;CACf"}

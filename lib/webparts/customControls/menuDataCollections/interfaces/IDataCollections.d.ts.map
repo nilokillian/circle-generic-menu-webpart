@@ -1,0 +1,1 @@
+{"version":3,"file":"IDataCollections.d.ts","sourceRoot":"","sources":["../../../../../src/webparts/customControls/menuDataCollections/interfaces/IDataCollections.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAExD,MAAM,WAAW,gBAAgB;IAC/B,MAAM,EAAE,iBAAiB,CAAC;IAC1B,QAAQ,EAAE,MAAM,CAAC;IACjB,UAAU,CAAC,EAAE,MAAM,CAAC;IACpB,KAAK,EAAE,MAAM,CAAC;CACf"}
